@@ -1,6 +1,6 @@
 from fastai.text import *
 # I did this outside the jupyter notebook because it was before I figured out how to run a jupyter notebook on the GPU node I used for this assignment.  
-# plot.png shows the typical learning rate graph we've come to expect.
+# Step2_plot.png shows the typical learning rate graph we've come to expect.
 # sorry this does not record the language model accuracy, but my recollection was it was ~40%.
 
 path='/users/cfassett/data/ml_experiments/build/'
